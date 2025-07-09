@@ -1,5 +1,5 @@
 # S12----VIDEOS-PUBLICITARIOS-TABLEU
-Automatización de dashboard para resolución de preguntas frecueentes para equipo de publicidad. Tableu.
+Automatización de dashboard para resolución de preguntas frecuentes para equipo de publicidad sobre las categorías de videos más vistos. Tableu.
 
 ## Descripción
 Trabajas como analista de vídeos publicitarios en la agencia de publicidad Sterling & Draper. Dedicas mucho tiempo a analizar tendencias de vídeos en YouTube para determinar qué contenido merece atención para la mercadotecnia.
