@@ -26,9 +26,6 @@ https://public.tableau.com/views/ProyectoS12_17477814824440/Dashboard1?:language
 En el PDF anexo encontrara una presentación con las características técnicas del dashboard 
 y una segunda sección con las respuestas a las cuestionas planteadas por el equipo de marketing.
 
-Dicha presentación se encuentra en drive, entrando al siguiente enlace:
-https://docs.google.com/presentation/d/1CGd1WNFLl_CN6k2m11X5WfR1tpsivFexi4OJPhQAz1o/edit?usp=sharing
-
 ## Conclusiones
 1. Durante el periodo registrado 14/11/2017 - 14/06/2018 las categorías en más tendencia fueron:
    * Entretenimiento : Representó entre un 24 - 35 % de los vídeos cada día.
